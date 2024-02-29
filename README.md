@@ -1,7 +1,7 @@
 # fear_conditioning
 
 ## 1. データ生成プロセス
-- ![Alt text](image.png)
+- ![Alt text](./materials/generative_process.png)
 
 ### overview
 - 「観測Oは，状態Sからマルコフモデルによって生成される」とする
