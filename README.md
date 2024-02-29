@@ -57,7 +57,7 @@ S_{\pi,t} = \sigma(v_t)\]
 ![Alt text](./materials/result2.png)
 - type 1の結果
 - 状態確率（左上），すくみ率（右上），予測誤差信号（下）
-![Alt text](ideal.png)
+![Alt text](./materials/ideal.png)
 - いただいた図
 
 ### 参考
